@@ -4,4 +4,5 @@ langchain_nvidia_ai_endpoints
 langchain_community
 faiss-cpu
 streamlit
-pypdf
+PyPDF2
+langchain
